@@ -10,16 +10,23 @@ namespace SeaFighter
     {
         static void Main(string[] args)
         {
-            string x, y;
-            //int x, y;
+
+            int x, y;
             Console.WriteLine("Веедите координаты удара x,y:");
-            x = Console.ReadLine();
-            y = Console.ReadLine();
-            /*x = Int32.Parse(Console.ReadLine());
+            x = Int32.Parse(Console.ReadLine());
             y = Convert.ToInt32(Console.ReadLine());
-            
-            Console.WriteLine("Удар нанесен по {0},{1}",x.ToString(),y.ToString());*/
-            Console.WriteLine("Удар нанесен по {0}:{1}", x, y);
+            if (x < 1)
+            {
+                Console.WriteLine("Координата X находится за пределами доступного участка моря");
+            }
+            else if (x > 9)
+            {
+                Console.WriteLine("Координата X находится за пределами доступного участка моря");
+            }
+            else
+            {
+                Console.WriteLine("Удар нанесен по {0},{1}", x.ToString(), y.ToString());
+            }
 
             Console.Read();
         }
