@@ -15,14 +15,12 @@ namespace SeaFighter
             Console.WriteLine("Веедите координаты удара x,y:");
             x = Int32.Parse(Console.ReadLine());
             y = Convert.ToInt32(Console.ReadLine());
-            if (x < 1)
+            if ((x < 1 || x > 9)
+                || (y < 1 || y > 9))
             {
-                Console.WriteLine("Координата X находится за пределами доступного участка моря");
+                Console.WriteLine("Неверно заданы координаты удара");
             }
-            else if (x > 9)
-            {
-                Console.WriteLine("Координата X находится за пределами доступного участка моря");
-            }
+            
             else
             {
                 Console.WriteLine("Удар нанесен по {0},{1}", x.ToString(), y.ToString());
