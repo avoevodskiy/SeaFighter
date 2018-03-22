@@ -1,0 +1,7 @@
+C:\Users\voevodsky-av\source\repos\SeaFighter\SeaFighter\obj\Debug\SeaFighter.csprojResolveAssemblyReference.cache
+C:\Users\voevodsky-av\source\repos\SeaFighter\SeaFighter\obj\Debug\SeaFighter.csproj.CoreCompileInputs.cache
+C:\Users\voevodsky-av\source\repos\SeaFighter\SeaFighter\bin\Debug\SeaFighter.exe.config
+C:\Users\voevodsky-av\source\repos\SeaFighter\SeaFighter\bin\Debug\SeaFighter.exe
+C:\Users\voevodsky-av\source\repos\SeaFighter\SeaFighter\bin\Debug\SeaFighter.pdb
+C:\Users\voevodsky-av\source\repos\SeaFighter\SeaFighter\obj\Debug\SeaFighter.exe
+C:\Users\voevodsky-av\source\repos\SeaFighter\SeaFighter\obj\Debug\SeaFighter.pdb
