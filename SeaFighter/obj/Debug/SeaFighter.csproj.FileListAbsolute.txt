@@ -5,3 +5,10 @@ C:\Users\voevodsky-av\source\repos\SeaFighter\SeaFighter\bin\Debug\SeaFighter.ex
 C:\Users\voevodsky-av\source\repos\SeaFighter\SeaFighter\bin\Debug\SeaFighter.pdb
 C:\Users\voevodsky-av\source\repos\SeaFighter\SeaFighter\obj\Debug\SeaFighter.exe
 C:\Users\voevodsky-av\source\repos\SeaFighter\SeaFighter\obj\Debug\SeaFighter.pdb
+C:\Users\avoev\source\repos\SeaFighter\SeaFighter\bin\Debug\SeaFighter.exe.config
+C:\Users\avoev\source\repos\SeaFighter\SeaFighter\bin\Debug\SeaFighter.exe
+C:\Users\avoev\source\repos\SeaFighter\SeaFighter\bin\Debug\SeaFighter.pdb
+C:\Users\avoev\source\repos\SeaFighter\SeaFighter\obj\Debug\SeaFighter.csprojResolveAssemblyReference.cache
+C:\Users\avoev\source\repos\SeaFighter\SeaFighter\obj\Debug\SeaFighter.csproj.CoreCompileInputs.cache
+C:\Users\avoev\source\repos\SeaFighter\SeaFighter\obj\Debug\SeaFighter.exe
+C:\Users\avoev\source\repos\SeaFighter\SeaFighter\obj\Debug\SeaFighter.pdb
